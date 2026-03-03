@@ -1,0 +1,1 @@
+# OOP_static_cls_self_10_masalalar
